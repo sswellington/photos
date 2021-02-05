@@ -4,7 +4,7 @@ const base = {
     data() {
         return {
             title: 'Wellington Silva',
-            subtitle: 'Sarada'
+            subtitle: 'Sarada',
         }
     }
 }
